@@ -6,7 +6,7 @@ A colorful and educational children's game project designed to encourage explora
 
 ## 🎮 Project Overview
 
-**Dağınık Gezgin** is a children's game concept developed as part of a professional project collaboration.
+**Dağınık Gezgin** is a children's game concept developed during a mandatory internship as part of a professional company collaboration.
 
 The project focuses on:
 
@@ -17,6 +17,14 @@ The project focuses on:
 - Colorful and accessible design language
 
 This repository currently serves as a **showcase and presentation page** for the project.
+
+---
+
+## 🌐 Live Showcase Website
+
+If you would like to explore the public showcase website of the project, you can visit:
+
+🔗 https://zeynepcelik1717.github.io/daginikgezgin/
 
 ---
 
@@ -41,9 +49,11 @@ Project screenshots and visual materials are included inside the repository.
 
 ## ⚠ Source Code Notice
 
-The original game source code is **not publicly available** because the project was developed for a company/private collaboration.
+The original game source code is **not publicly available** because the project was developed during a mandatory internship for a company/private collaboration.
 
-This repository only contains:
+Due to company confidentiality policies, only the public showcase materials are shared in this repository.
+
+This repository contains:
 - Showcase materials
 - Visual assets
 - Presentation website
